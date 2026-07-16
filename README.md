@@ -38,8 +38,4 @@ python3 -m http.server 8080
 - **Geocoding:** [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api) + Nominatim fallback
 - **Location detect:** [ipapi.co](https://ipapi.co/) (free tier)
 
-## 🎨 Fonts (Google Fonts)
 
-- **Bebas Neue** — display headings
-- **Outfit** — body text
-- **DM Mono** — numbers & codes
